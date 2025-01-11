@@ -15,4 +15,4 @@ My list of side coding projects/websites:
 * In 2008 I Launched https://geekcrafts.com - a blog about... geek crafts
 * In 2005 I started a candy blog called Candy Addict at https://candyaddict.com and at one point it was ranked on the front page of Google when searching for candy. It's pretty much dead now, but was a fun ride.
 * My resume is online at https://brianpipa.com/misc/resume/ . I'm always willing to entertain Java opportunities.
-* If you feel the need to email me, you can email me at https://brianpipa.com I'll let you figure out the email address (HINT: brian). 
+* If you feel the need to email me, my email address is on gmail.com and the user name is my firstnamelastname. 
