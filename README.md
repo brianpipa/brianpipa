@@ -4,7 +4,7 @@ My name is Brian Pipa and I'm a code monkey, a geek, a husband, a dad, and a gam
 * I have been coding for over 25 years, mostly in Java.
 * I co-founded a company called Brainy Atom, LLC in 2006 where I wrote Ruby on Rails code for our sites like Teenormous. I sold my half of the company in 2012.
 * I'm a huge Douglas Adams fan. I even own https://myvogonpoetry.com where I sometimes write in my blog
-* I used to get paid to review PC games. I wrote for Avault, VoodoExtreme,Gamesmania, etc. I even went to E3 as a member of the press!
+* I used to get paid to review PC games. I wrote for Avault, VoodoExtreme,Gamesmania, etc. I had some of my review quotes on PC game boxes and I even went to E3 as a member of the press!
 * If you feel the need to email me, my email address is on gmail.com and the user name is my firstnamelastname. 
 
 My list of side coding projects/websites:
